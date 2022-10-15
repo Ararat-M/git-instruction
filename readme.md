@@ -17,5 +17,9 @@ LICENSE: [MIT](license.md)
   * [Как полностью клонировать удаленный репозитарий?](./rr-clone.md)
   * [Как клонировать изменения с удаленного репозитария?](./rr-pull.md)
 * [Как правильно писать коммиты?]()
+
+[Топ 5 капибар](./capybara.md)
+
 ---
+
 Git Logo by Jason Long https://git-scm.com/downloads/logos, license: [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/)
