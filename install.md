@@ -9,7 +9,7 @@ C:\Users\User>git version
 git version 2.38.0.windows.1
 ```
 
-Для того чтобы завершить настройку нужно установить имя пользователя, а так же e-mail пользователя, для этого необходимо выполнить команды `git config --global user.name` и `git config --global user.e-mail`
+Для того чтобы завершить настройку, нужно установить имя пользователя, а так же e-mail пользователя, для этого необходимо выполнить команды `git config --global user.name` и `git config --global user.e-mail`
 
 ```
 C:\Users\User>git config --global user.name alex
@@ -20,4 +20,4 @@ C:\Users\User>git config --global user.e-mail alex@gmail.com
 С настройкой разобрались, теперь можно создать репозиторий и загрузить в него данные.
 
 ---
-[Создание репозитория и добаление данных >](./create.md)
+[Создание репозитория и добавление данных >](./create.md)
